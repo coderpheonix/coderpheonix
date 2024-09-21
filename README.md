@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shahidul Islam, know as Sawon
+- 👋 Hi, I’m @Shahidul Islam, known as Sawon
 - 👀 I’m interested in Softawre Engineering , Machine Learning Engineering, Data Science, contributing to open-source projects.
 - 🌱 I’m currently learning advanced data structures, algorithms, and solving leetcode problem related to it.
 - 💞️ I’m looking to collaborate with IT related work and people 
