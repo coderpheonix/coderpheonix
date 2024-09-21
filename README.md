@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Shahidul Islam, know as Sawon
+- 👀 I’m interested in Softawre Engineering , Data Science, contributing to open-source projects.
+- 🌱 I’m currently learning advanced data structures, algorithms,
+- 💞️ I’m looking to collaborate with IT related work and people 
+- 📫 How to reach me: Feel free to contact me at [sawonalislam@gmai.com].
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about space and volunteer with NASA’s Citizen Scientist program!
