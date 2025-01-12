@@ -33,16 +33,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderpheonix&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=coderpheonix&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Github Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coderpheonix&theme=github&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coderpheonix&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## Personal Achivement
