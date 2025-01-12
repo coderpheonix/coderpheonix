@@ -1,12 +1,17 @@
 
-<h3 style="font-family: 'Courier New', Courier, monospace; color: #6A5ACD;">👋 Hi, I'm Shahidul Islam Sawon!</h3>
-<ul style="font-family: 'Arial', sans-serif; color: #333;">
-  <li>👨‍💻 I’m a <strong>Software Engineer</strong> in the making.</li>
+<h1 align="center" style="color: #4CAF50;">Hi, I'm Shahidul Islam Sawon</h1>
+<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Bangladesh</h3> 
+<img align="right" alt="coding" width="550" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" />
+
+<ul>
+  <li>🌱 I’m currently learning **AI, Machine Learning, Deep Learning**</li>
+  <li>🌱 I’m currently working on and busy with **Data Science, Machine Learning**</li>
   <li>🌱 Currently learning <strong>Machine Learning</strong> and <strong>Data Science</strong>.</li>
   <li>🔧 I’m passionate about <strong>C++</strong>, <strong>Python</strong>, and <strong>Machine Learning</strong>.</li>
   <li>💬 Ask me about <strong>Tech</strong>, <strong>Programming</strong>, or <strong>Career Advice</strong>.</li>
   <li>📫 How to reach me: <a href="mailto:sawonalislam@gmail.com" style="color: #1E90FF;">sawonalislam@gmail.com</a></li>
 </ul>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sawonalislam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahidul-islam-sawon/) 
