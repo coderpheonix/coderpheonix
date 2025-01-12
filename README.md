@@ -22,6 +22,19 @@
 ### Github Snake Animation
 ![GitHub Contribution Snake](https://github.com/coderpheonix/coderpheonix/blob/master/dist/github-contribution-grid-snake.svg)
 
+##
+![GitHub Contribution Calendar](https://github.com/coderpheonix/coderpheonix/blob/master/assets/github-contribution-calendar.svg)
+
+##Contribution
+![GitHub Contribution Calendar](https://github.com/coderpheonix/coderpheonix/blob/master/assets/github-contribution-calendar.svg)
+
+## Visitor Count
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=coderpheonix.coderpheonix)
+
+## Personal Achivement
+![Certification Badge](https://img.shields.io/badge/Completed-Certified%20Data%20Analyst-green)
+![Achievement Badge](https://img.shields.io/badge/100%20LeetCode%20Problems-Completed-blue)
+
 
 
 ### 🔝 Top Contributed Repo
