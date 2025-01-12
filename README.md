@@ -19,7 +19,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Github Snake Animation
+### Github Snake Animation
 ![GitHub Contribution Snake](https://github.com/coderpheonix/coderpheonix/blob/master/dist/github-contribution-grid-snake.svg)
 
 
