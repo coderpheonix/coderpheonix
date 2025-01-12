@@ -1,4 +1,13 @@
 
+<h3 style="font-family: 'Courier New', Courier, monospace; color: #6A5ACD;">👋 Hi, I'm Shahidul Islam Sawon!</h3>
+<ul style="font-family: 'Arial', sans-serif; color: #333;">
+  <li>👨‍💻 I’m a <strong>Software Engineer</strong> in the making.</li>
+  <li>🌱 Currently learning <strong>Machine Learning</strong> and <strong>Data Science</strong>.</li>
+  <li>🔧 I’m passionate about <strong>C++</strong>, <strong>Python</strong>, and <strong>Machine Learning</strong>.</li>
+  <li>💬 Ask me about <strong>Tech</strong>, <strong>Programming</strong>, or <strong>Career Advice</strong>.</li>
+  <li>📫 How to reach me: <a href="mailto:sawonalislam@gmail.com" style="color: #1E90FF;">sawonalislam@gmail.com</a></li>
+</ul>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sawonalislam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahidul-islam-sawon/) 
 
@@ -19,28 +28,17 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Github Snake Animation
-![GitHub Contribution Snake](https://github.com/coderpheonix/coderpheonix/blob/master/dist/github-contribution-grid-snake.svg)
-
-##
-![GitHub Contribution Calendar](https://github.com/coderpheonix/coderpheonix/blob/master/assets/github-contribution-calendar.svg)
-
-##Contribution
-![GitHub Contribution Calendar](https://github.com/coderpheonix/coderpheonix/blob/master/assets/github-contribution-calendar.svg)
-
-## Visitor Count
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=coderpheonix.coderpheonix)
 
 ## Personal Achivement
 ![Certification Badge](https://img.shields.io/badge/Completed-Certified%20Data%20Analyst-green)
 ![Achievement Badge](https://img.shields.io/badge/100%20LeetCode%20Problems-Completed-blue)
 
+![Profile Views](https://komarev.com/ghpvc/?username=coderpheonix)
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=coderpheonix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=coderpheonix&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
