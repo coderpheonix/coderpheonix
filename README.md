@@ -36,24 +36,33 @@
 ![](https://github-profile-trophy.vercel.app/?username=coderpheonix&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Github Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coderpheonix&theme=github&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- Top Languages Stats -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderpheonix&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=coderpheonix&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ## Personal Achivement
 ![Certification Badge](https://img.shields.io/badge/Completed-Certified%20Data%20Analyst-green)
 ![Achievement Badge](https://img.shields.io/badge/100%20LeetCode%20Problems-Completed-blue)
 
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=coderpheonix)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coderpheonix&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### Snake
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
