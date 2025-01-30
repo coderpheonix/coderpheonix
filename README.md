@@ -25,16 +25,10 @@
 
 # GitHub Profile Summary Cards
 
-<!-- Profile Details (Shows contributions, PRs, issues, etc.) -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderpheonix&theme=github)
-
-<!-- Top Languages (Displays the most used programming languages in your repositories) -->
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderpheonix&theme=github)
-
-<!-- Most Used Language (Highlights the language in which you have the most commits) -->
 ![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderpheonix&theme=github)
-
-<!-- Productive Time (Indicates when you are most active on GitHub) -->
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=coderpheonix&theme=github)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderpheonix&theme=github)
 
 
