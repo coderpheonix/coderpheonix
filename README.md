@@ -21,6 +21,31 @@
 
 
 
+
+
+# GitHub Profile Summary Cards
+
+<!-- Profile Details (Shows contributions, PRs, issues, etc.) -->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderpheonix&theme=github)
+
+<!-- Top Languages (Displays the most used programming languages in your repositories) -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderpheonix&theme=github)
+
+<!-- Most Used Language (Highlights the language in which you have the most commits) -->
+![Most Used Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderpheonix&theme=github)
+
+<!-- Productive Time (Indicates when you are most active on GitHub) -->
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderpheonix&theme=github)
+
+
+
+
+
+
+
+
+
+
 # 📊 GitHub Stats:
 
 <!-- GitHub Profile Stats -->
@@ -39,9 +64,6 @@
 
 ## Github Activity Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coderpheonix&theme=github&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Top Languages Stats -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderpheonix&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
