@@ -1,16 +1,32 @@
 
-<h1 align="center" style="color: #4CAF50;">Hi, I'm Shahidul Islam Sawon</h1>
-<h3 align="center">A passionate Data Scientist and Machine Learning Engineer from Bangladesh</h3> 
-<img align="right" alt="coding" width="550" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" />
+<h1 align="center" style="color: #4CAF50; font-size: 3em; font-weight: bold; text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);">
+  🚀 Hi, I'm <span style="color: #FF9800;">Shahidul Islam Sawon</span>
+</h1>
+
+<h3 align="center" style="color: #2196F3; font-size: 1.8em; font-weight: bold;">
+  A Passionate <span style="color: #E91E63;">Data Scientist</span> &  
+  <span style="color: #9C27B0;">Machine Learning Engineer</span> from 🇧🇩 Bangladesh
+</h3>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif" 
+       alt="Coding" width="550" style="border-radius: 15px; box-shadow: 8px 8px 20px rgba(0, 0, 0, 0.3);" />
+</p>
+
 
 <ul>
-  <li>🌱 I’m currently learning **AI, Machine Learning, Deep Learning**</li>
-  <li>🌱 I’m currently working on and busy with **Data Science, Machine Learning**</li>
-  <li>🌱 Currently learning <strong>Machine Learning</strong> and <strong>Data Science</strong>.</li>
-  <li>🔧 I’m passionate about <strong>C++</strong>, <strong>Python</strong>, and <strong>Machine Learning</strong>.</li>
-  <li>💬 Ask me about <strong>Tech</strong>, <strong>Programming</strong>, or <strong>Career Advice</strong>.</li>
-  <li>📫 How to reach me: <a href="mailto:sawonalislam@gmail.com" style="color: #1E90FF;">sawonalislam@gmail.com</a></li>
+  <li>🌱 Currently diving into <strong>AI, Machine Learning, and Deep Learning</strong>.</li>
+  <li>🚀 Focused on <strong>Data Science & Machine Learning</strong> projects.</li>
+  <li>📖 Always learning and experimenting with <strong>ML & Data Science</strong>.</li>
+  <li>🔧 Passionate about <code>C++</code>, <code>Python</code>, and <strong>Machine Learning</strong>.</li>
+  <li>💡 Love discussing <strong>Tech, Programming, and Career Advice</strong>.</li>
+  <li>📫 Reach me at:  
+    <a href="mailto:sawonalislam@gmail.com" style="color: #1E90FF; text-decoration: none;">
+      ✉️ sawonalislam@gmail.com
+    </a>
+  </li>
 </ul>
+
 
 
 ## 🌐 Socials:
