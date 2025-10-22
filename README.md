@@ -4,8 +4,8 @@
 </h1>
 
 <h3 align="center" style="color: #2196F3; font-size: 1.8em; font-weight: bold;">
-  A Passionate <span style="color: #E91E63;">Data Scientist</span> &  
-  <span style="color: #9C27B0;">Machine Learning Engineer</span> from 🇧🇩 Bangladesh
+  A Passionate <span style="color: #E91E63;"> Programmer </span> &  
+  <span style="color: #9C27B0;">Machine Learning Engineer</span> from Bangladesh
 </h3>
 
 <p align="center">
@@ -18,7 +18,6 @@
   <li>🌱 Currently diving into <strong>AI, Machine Learning, and Deep Learning</strong>.</li>
   <li>🚀 Focused on <strong>Data Science & Machine Learning</strong> projects.</li>
   <li>📖 Always learning and experimenting with <strong>ML & Data Science</strong>.</li>
-  <li>🔧 Passionate about <code>C++</code>, <code>Python</code>, and <strong>Machine Learning</strong>.</li>
   <li>💡 Love discussing <strong>Tech, Programming, and Career Advice</strong>.</li>
   <li>📫 Reach me at:  
     <a href="mailto:sawonalislam@gmail.com" style="color: #1E90FF; text-decoration: none;">
